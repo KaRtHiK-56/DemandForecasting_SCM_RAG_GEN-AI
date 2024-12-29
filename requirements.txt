@@ -1,4 +1,15 @@
 pandas
 numpy
-conda
 black
+python-dotenv
+langchain 
+langchain-community 
+langchain-core
+chromadb
+transformers 
+transformer-embeddings
+huggingface_hub
+setuptools
+streamlit 
+
+-e.
